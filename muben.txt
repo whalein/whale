@@ -1,0 +1,8 @@
+index.php
+index.html
+get.html
+admin.php
+down.html
+assets
+inc
+pkxss
